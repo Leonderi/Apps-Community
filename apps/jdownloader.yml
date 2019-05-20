@@ -20,7 +20,7 @@
         extport2: '5902'
         intport3: '3129'
         extport3: '3129'
-        image: 'Leonderi/docker-jdownloader2'
+        image: 'aptalca/docker-jdownloader2'
 
     # CORE (MANDATORY) ############################################################
     - name: 'Including cron job'
