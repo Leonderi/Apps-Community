@@ -20,7 +20,7 @@
         extport2: '5902'
         intport3: '3129'
         extport3: '3129'
-        image: 'jaymoulin/jdownloader'
+        image: 'flo313/jdownloader2-openjdk8-alpine'
 
     # CORE (MANDATORY) ############################################################
     - name: 'Including cron job'
